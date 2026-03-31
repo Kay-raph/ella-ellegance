@@ -1142,7 +1142,8 @@ blockquote{
 .content-offers{
     min-height:490px;
     width:100%;
-    background:url(images/bg-offers.jpg) no-repeat left center;
+    background:url(ladies/gideon.jpg) no-repeat center;
+    background-size: cover;
     margin-bottom:100px;
     
 }
